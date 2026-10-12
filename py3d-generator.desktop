@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Py3D Generator
+Comment=Code-based 3D model creator
+Exec=/home/waled/Projects/py3d-generator/run.sh
+Path=/home/waled/Projects/py3d-generator
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
